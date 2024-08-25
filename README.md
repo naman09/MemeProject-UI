@@ -1,4 +1,4 @@
-# MemeProject-UI
+# Yourmemes-UI
 
 ### Screenshots
 <img src="screenshots/2.PNG">
